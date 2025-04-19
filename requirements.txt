@@ -2,3 +2,4 @@ fastapi
 httpx
 uvicorn[standard]
 python-dotenv
+gunicorn
